@@ -1,5 +1,8 @@
 # MachineLearning
-Credit Card Fraud Detection using Machine Learning.
-This project includes data preprocessing, SMOTE for handling imbalance, visualization, 
-and model used Random Forest.
-Evaluated using accuracy, precision, recall, F1-score, ROC-AUC, and confusion matrix.
+Credit Card Fraud Detection using Supervised Machine Learning
+
+This project focuses on detecting fraudulent credit card transactions using supervised learning techniques. The workflow includes data preprocessing, handling class imbalance using SMOTE, and performing detailed visualization and feature analysis to understand fraud patterns.
+
+supervised learning models were implemented including:
+
+Random Forest Classifier (Ensemble Learning - Classification)
